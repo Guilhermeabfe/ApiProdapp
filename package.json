@@ -21,7 +21,8 @@
   "homepage": "https://github.com/Guilhermeabfe/ApiProdapp#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
