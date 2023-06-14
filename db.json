@@ -29,6 +29,16 @@
       "id": 6,
       "email": "glauber@gmail.com",
       "password": "$2a$10$LnjEr5dygqS2rB.vtxg1OedHgL544uTKglg.TQOcNzo2SdujWvSca"
+    },
+    {
+      "email": "savio.fontenele@fapce.edu.br",
+      "password": "$2a$10$7mQg3zFCsoi/ktHhowkygOWfDCFsdptIcBjeuI1OQJszkgCuAgHpy",
+      "id": 7
+    },
+    {
+      "email": "mauro.oliveira@fapce.edu.br",
+      "password": "$2a$10$t7Y49NI.pqLi/yFZP7PTL.LXER.BS452k/0yXu8lb49RtO5Wu23Pe",
+      "id": 8
     }
   ]
 }
